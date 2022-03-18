@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shobhit Chaurasia
-- 👀 I’m interested in Open Source Contributions, Web Development and Flutter
+- 👀 I’m interested in Open Source Contributions, Web Development and Competitive Programming
 - 🌱 I’m currently learning Data Structures and Algorithms, Web development using MERN stack
 - 💞️ I’m looking to collaborate on any project in which I can learn new skills
 - 📫 How to reach me ...
