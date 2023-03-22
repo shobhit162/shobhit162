@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit162&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit162" /> </p>
 
-- 🌱 I’m currently contributing in  **OSGeo GSoC project**
+- 🌱 Contributed in  **OSGeo GSoC project** for Google Summer of Code 2022. Mentor in GSoC 2023
 
 - 💬 Ask me about **Data Structure, Open Source**
 
