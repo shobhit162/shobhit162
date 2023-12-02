@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Shobhit Chaurasia</h1>
-<h3 align="center">Angular developer at GoDigit Insurance. Completed Bachelors of Technology in Computer Science in 2023. I'm an Open Source Enthusiast, Web Developer and Competitive Programmer.</h3>
+<h3 align="center">Angular developer at GoDigit Insurance. Completed Bachelors of Technology in Computer Science. I'm an Open Source Enthusiast, Web Developer and Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit162&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit162" /> </p>
 
