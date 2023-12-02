@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 Contributed in  **OSGeo GSoC project** for Google Summer of Code 2022. Mentor in GSoC 2023
 
-- 💬 Ask me about **Data Structure, Open Source**
+- 💬 Ask me about **Data Structure, Open Source and Web development**
 
 - 📫 How to reach me **000shobhitchaurasia@gmail.com**
 
